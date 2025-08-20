@@ -23,8 +23,7 @@ A comprehensive desktop application for managing driving licenses, applications,
 - **Advanced Password Security with SHA256 Hashing**
 - **"Remember Me" Functionality using Windows Registry**
 - **Role-based Access Control**
-- **User Session Management**
-
+  
 ### 👥 People Management
 - **Comprehensive Person Registration and Management**
 - **Personal Information Management**
