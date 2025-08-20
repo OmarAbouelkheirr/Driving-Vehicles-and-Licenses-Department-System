@@ -3,8 +3,7 @@
 A comprehensive desktop application for managing driving licenses, applications, tests, and related administrative tasks. Built with C# WinForms and following a three-tier architecture pattern.
 
 
-## 🎥 Demo
-<iframe width="1236" height="695" src="https://www.youtube.com/embed/6hGfjmbDVuk" title="DVLD Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+🎬 Watch the full demo [here](https://youtu.be/6hGfjmbDVuk?si=Ax7A44bOiBSe_ijK)
 
 
 ## 📋 Table of Contents
