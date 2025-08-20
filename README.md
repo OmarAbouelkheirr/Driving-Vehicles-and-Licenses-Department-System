@@ -67,21 +67,22 @@ A comprehensive desktop application for managing driving licenses, applications,
 ## 📸 Screenshots
 
 ### Login Screen
-![Login Screen](Screenshots/login-screen.png)
 *Secure login interface with user authentication*
+![Login Screen](Screenshots/login-screen.png)
 
 ### Main Dashboard
-![Main Dashboard](Screenshots/main-screen.png)
 *Main application screen with navigation menu*
+![Main Dashboard](Screenshots/main-screen.png)
 
 ### People Management
-![People Management](Screenshots/people-management.png)
 *Comprehensive people registration and management interface*
+![People Management](Screenshots/people-management.png)
 
 ### License Applications
+*Local and international license application management*
 ![License Applications](Screenshots/license-application1.png)
 ![License Applications](Screenshots/license-application2.png)
-*Local and international license application management*
+
 
 ### Detained Licenses, License Issuance, Test Management and Other Features
 In Video Demo
