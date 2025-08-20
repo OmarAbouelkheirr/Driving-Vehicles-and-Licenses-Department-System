@@ -1,0 +1,9 @@
+D:\Learning\Programming\DesktopApps\DVLD\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Learning\Programming\DesktopApps\DVLD\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Learning\Programming\DesktopApps\DVLD\BusinessLayer\bin\Debug\DataAccessLayer.dll
+D:\Learning\Programming\DesktopApps\DVLD\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Learning\Programming\DesktopApps\DVLD\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\Learning\Programming\DesktopApps\DVLD\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Learning\Programming\DesktopApps\DVLD\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+D:\Learning\Programming\DesktopApps\DVLD\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Learning\Programming\DesktopApps\DVLD\BusinessLayer\obj\Debug\BusinessLayer.pdb
