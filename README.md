@@ -8,11 +8,9 @@ A comprehensive desktop application for managing driving licenses, applications,
 - [Screenshots](#-screenshots)
 - [Technology Stack](#-technology-stack)
 - [Architecture](#-architecture)
-- [Prerequisites](#-prerequisites)
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Project Structure](#-project-structure)
-- [Contributing](#-contributing)
 - [Contact](#-contact)
 
 ## ✨ Features
@@ -23,7 +21,8 @@ A comprehensive desktop application for managing driving licenses, applications,
 - **Advanced Password Security with SHA256 Hashing**
 - **"Remember Me" Functionality using Windows Registry**
 - **Role-based Access Control**
-  
+- **User Session Management**
+
 ### 👥 People Management
 - **Comprehensive Person Registration and Management**
 - **Personal Information Management**
@@ -74,8 +73,8 @@ A comprehensive desktop application for managing driving licenses, applications,
 
 ### Main Dashboard
 <!-- Add your main dashboard screenshot here -->
-![Main Dashboard](screenshots/main-dashboard.png)
-*Main application dashboard with navigation menu*
+![Main Dashboard](screenshots/main-screen.png)
+*Main application screen with navigation menu*
 
 ### People Management
 <!-- Add your people management screenshot here -->
@@ -84,23 +83,13 @@ A comprehensive desktop application for managing driving licenses, applications,
 
 ### License Applications
 <!-- Add your license applications screenshot here -->
-![License Applications](screenshots/license-applications.png)
+![License Applications](screenshots/license-application1.png)
+![License Applications](screenshots/license-application2.png)
 *Local and international license application management*
 
-### Test Management
-<!-- Add your test management screenshot here -->
-![Test Management](screenshots/test-management.png)
-*Test scheduling and appointment management system*
+### Detained Licenses, License Issuance, Test Management and Other Features
+In Video Demo
 
-### License Issuance
-<!-- Add your license issuance screenshot here -->
-![License Issuance](screenshots/license-issuance.png)
-*License issuance and management interface*
-
-### Detained Licenses
-<!-- Add your detained licenses screenshot here -->
-![Detained Licenses](screenshots/detained-licenses.png)
-*Detained license management and release system*
 
 ## 🛠 Technology Stack
 
@@ -109,10 +98,12 @@ A comprehensive desktop application for managing driving licenses, applications,
 - **UI Framework**: Windows Forms (WinForms)
 - **UI Components**: Guna.UI2 WinForms (Modern UI Library)
 - **Architecture**: Three-Tier Architecture
-- **Database**: SQL Server with ADO.NET for data access
+- **Database**: SQL Server
+- **Data Access**: ADO.NET
 - **Security**: SHA256 Password Hashing
-- **Registry Integration**: Windows Registry for "Remember Me" functionality
+- **Windows Registry**: For "Remember Me" functionality
 - **IDE**: Visual Studio
+
 
 ## 🏗 Architecture
 
@@ -137,21 +128,11 @@ The project follows a **Three-Tier Architecture** pattern:
 - **Business Layer**: Business logic, data validation, application rules
 - **Data Access Layer**: Database operations, data persistence
 
-## 📋 Prerequisites
-
-Before running this application, make sure you have the following installed:
-
-- **Windows 10/11** or **Windows Server 2016+**
-- **Visual Studio 2019/2022** (Community, Professional, or Enterprise)
-- **.NET Framework 4.7.2** or later
-- **SQL Server** (Express, Standard, or Enterprise)
-- **SQL Server Management Studio** (SSMS) - Optional but recommended
-
 ## 🚀 Installation
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/DVLD.git
+git clone git clone https://github.com/OmarAbouelkheirr/Driving-Vehicles-and-Licenses-Department-System
 cd DVLD
 ```
 
@@ -259,37 +240,14 @@ DVLD/
 └── packages/               # NuGet packages
 ```
 
-## 🤝 Contributing
-
-We welcome contributions to improve the DVLD system! Here's how you can contribute:
-
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit your changes** (`git commit -m 'Add some AmazingFeature'`)
-4. **Push to the branch** (`git push origin feature/AmazingFeature`)
-5. **Open a Pull Request**
-
-### Development Guidelines
-- Follow C# coding conventions
-- Add comments to complex business logic
-- Update documentation for new features
-- Test thoroughly before submitting
 
 ## 📞 Contact
 
 ### Developer
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
-
-### Platform
-- **Platform Name**: [Your Platform Name](https://your-platform-url.com)
-- **Project URL**: [Project on Platform](https://your-platform-url.com/projects/dvld)
+- **LinkedIn**: [Omar Abouelkheir](https://www.linkedin.com/in/omar-abouelkhier-eg/)
+- **GitHub**: [Omar Abouelkheir](https://github.com/OmarAbouelkheirr/)
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
