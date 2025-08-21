@@ -259,6 +259,4 @@ DVLD/
 
 ---
 
-**Note**: This is a comprehensive driving license management system designed for government agencies, driving schools, or any organization that needs to manage driving licenses and related processes efficiently.
-
 ⭐ **Star this repository if you find it helpful!**
